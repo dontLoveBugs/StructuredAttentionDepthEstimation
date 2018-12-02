@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 '''
 Structured Attention Network with Caffe NetSpec generation
 Base Network: ResNet50.
